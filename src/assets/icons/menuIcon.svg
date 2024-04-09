@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.589" height="23.589" viewBox="0 0 23.589 23.589">
+  <g id="menu_14_" data-name="menu (14)" transform="translate(0.25 0.25)">
+    <g id="Group_38800" data-name="Group 38800" transform="translate(12.446)">
+      <g id="Group_38799" data-name="Group 38799" transform="translate(0)">
+        <path id="Path_31264" data-name="Path 31264" d="M2.67,0h5.3a2.673,2.673,0,0,1,2.67,2.67v5.3a2.673,2.673,0,0,1-2.67,2.67H2.67A2.673,2.673,0,0,1,0,7.973V2.67A2.673,2.673,0,0,1,2.67,0ZM1.8,7.973a.867.867,0,0,0,.866.866h5.3a.867.867,0,0,0,.866-.866V2.67A.867.867,0,0,0,7.973,1.8H2.67A.867.867,0,0,0,1.8,2.67Z" fill="#ef4446" stroke="#ed4345" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_38802" data-name="Group 38802" transform="translate(0)">
+      <g id="Group_38801" data-name="Group 38801">
+        <path id="Path_31265" data-name="Path 31265" d="M278.706,0h5.231a2.709,2.709,0,0,1,2.706,2.706V7.937a2.709,2.709,0,0,1-2.706,2.706h-5.231A2.709,2.709,0,0,1,276,7.937V2.706A2.709,2.709,0,0,1,278.706,0Zm-.9,7.937a.9.9,0,0,0,.9.9h5.231a.9.9,0,0,0,.9-.9V2.706a.9.9,0,0,0-.9-.9h-5.231a.9.9,0,0,0-.9.9Z" transform="translate(-276)" fill="#939191" stroke="#929090" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_38804" data-name="Group 38804" transform="translate(12.446 12.446)">
+      <g id="Group_38803" data-name="Group 38803" transform="translate(0)">
+        <path id="Path_31266" data-name="Path 31266" d="M2.67,276h5.3a2.673,2.673,0,0,1,2.67,2.67v5.3a2.673,2.673,0,0,1-2.67,2.67H2.67A2.673,2.673,0,0,1,0,283.973v-5.3A2.673,2.673,0,0,1,2.67,276ZM1.8,283.973a.867.867,0,0,0,.866.866h5.3a.867.867,0,0,0,.866-.866v-5.3a.867.867,0,0,0-.866-.866H2.67a.867.867,0,0,0-.866.866Z" transform="translate(0 -276)" fill="#939191" stroke="#939191" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_38806" data-name="Group 38806" transform="translate(0 12.446)">
+      <g id="Group_38805" data-name="Group 38805">
+        <path id="Path_31267" data-name="Path 31267" d="M278.706,276h5.231a2.709,2.709,0,0,1,2.706,2.706v5.231a2.709,2.709,0,0,1-2.706,2.706h-5.231A2.709,2.709,0,0,1,276,283.937v-5.231A2.709,2.709,0,0,1,278.706,276Zm-.9,7.937a.9.9,0,0,0,.9.9h5.231a.9.9,0,0,0,.9-.9v-5.231a.9.9,0,0,0-.9-.9h-5.231a.9.9,0,0,0-.9.9Z" transform="translate(-276 -276)" fill="#ef4446" stroke="#ed4345" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

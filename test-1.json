@@ -1,0 +1,60 @@
+{
+  "encryptedTemplateId": "",
+  "cmsName": "Sample CMS",
+  "cmsDescription": "",
+  "imageFile": null,
+  "imagePath": "",
+  "sourcePath": "dddddd",
+  "isDeleted": false,
+  "price": 0,
+  "cmsTemplatePages": [
+    {
+      "encryptedPageId": "",
+      "cmsPageTypeEnum": 1,
+      "displayName": "Home Page",
+      "description": "Home Page Description",
+      "cmsItemStatusEnum": 2,
+      "cmsTemplatePageSections": [
+        {
+          "encryptedPageSectionId": "",
+          "sectionCode": "homeSection",
+          "sectionDisplayName": "Home Section",
+          "sectionPosition": 1,
+          "isIncremental": false,
+          "cmsItemStatusEnum": 2,
+          "cmsTemplatePageSectionItems": [
+            {
+              "encryptedPageSectionItemId": "",
+              "itemKey": "itemKey1",
+              "itemDisplayName": "Item 1",
+              "itemPosition": 1,
+              "isIncremental": false,
+              "cmsItemTypeEnum": 1,
+              "cmsItemStatusEnum": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cmsTemplateLayoutSections": [
+    {
+      "encryptedLayoutSectionId": "",
+      "cmsLayoutTypeEnum": 1,
+      "sectionCode": "layoutSection",
+      "sectionDisplayName": "Layout Section",
+      "cmsItemStatusEnum": 2,
+      "cmsTemplateLayoutSectionItems": [
+        {
+          "encryptedLayoutSectionItemId": "",
+          "itemKey": "layoutItemKey1",
+          "itemDisplayName": "Layout Item 1",
+          "itemPosition": 1,
+          "isIncremental": false,
+          "cmsItemTypeEnum": 1,
+          "cmsItemStatusEnum": 2
+        }
+      ]
+    }
+  ]
+}

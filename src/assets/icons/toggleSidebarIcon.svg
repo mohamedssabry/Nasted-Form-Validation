@@ -1,0 +1,14 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="keypad">
+    <rect id="Rectangle_479" data-name="Rectangle 479" width="24" height="24" fill="#ef4446" opacity="0"/>
+    <path id="Path_1233" data-name="Path 1233" d="M5,2A3,3,0,1,0,8,5,3,3,0,0,0,5,2Z" fill="#ef4446"/>
+    <path id="Path_1234" data-name="Path 1234" d="M12,2a3,3,0,1,0,3,3A3,3,0,0,0,12,2Z" fill="#ef4446"/>
+    <path id="Path_1235" data-name="Path 1235" d="M19,8a3,3,0,1,0-3-3A3,3,0,0,0,19,8Z" fill="#ef4446"/>
+    <path id="Path_1236" data-name="Path 1236" d="M5,9a3,3,0,1,0,3,3A3,3,0,0,0,5,9Z" fill="#ef4446"/>
+    <path id="Path_1237" data-name="Path 1237" d="M12,9a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z" fill="#ef4446"/>
+    <path id="Path_1238" data-name="Path 1238" d="M19,9a3,3,0,1,0,3,3A3,3,0,0,0,19,9Z" fill="#ef4446"/>
+    <path id="Path_1239" data-name="Path 1239" d="M5,16a3,3,0,1,0,3,3A3,3,0,0,0,5,16Z" fill="#ef4446"/>
+    <path id="Path_1240" data-name="Path 1240" d="M12,16a3,3,0,1,0,3,3A3,3,0,0,0,12,16Z" fill="#ef4446"/>
+    <path id="Path_1241" data-name="Path 1241" d="M19,16a3,3,0,1,0,3,3A3,3,0,0,0,19,16Z" fill="#ef4446"/>
+  </g>
+</svg>

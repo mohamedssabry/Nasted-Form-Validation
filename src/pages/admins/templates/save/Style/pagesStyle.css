@@ -1,0 +1,50 @@
+.formweb {
+  border: 1px solid #ccc;
+}
+
+.formweb .line {
+  width: 100%;
+  height: 2px;
+  background-color: #ccc;
+}
+
+.formweb .inputsform {
+  border: 2px solid #ccc;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.formweb .browse-img {
+  border: 2px solid #ccc;
+  border-radius: 6px;
+}
+.form-new-page {
+  border: 2px solid #c36f68;
+}
+
+.select-option {
+  border: 2px solid #ccc;
+}
+.sub-form {
+  border: 2px solid #e39d8c;
+}
+.header-form {
+  border-bottom: 2px solid #e39d8c;
+}
+.header-form-item {
+  border-bottom: 2px solid #989393;
+}
+
+.form-item {
+  border: 2px solid #989393;
+}
+
+.bg-button-save {
+ background: rgb(245,137,137);
+background: linear-gradient(90deg, rgba(245,137,137,1) 13%, rgba(226,77,77,1) 40%);
+}
+
+.header-form-page{
+  border-bottom: 2px solid #C36F68;
+
+}
